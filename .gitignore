@@ -1,0 +1,12 @@
+# Vivado generated directories and logs
+*.log
+*.jou
+*.str
+*.vcd
+vivado_proj/
+.Xil/
+*.bit
+*.bin
+*.ltx
+*.dcp
+*.rpt
